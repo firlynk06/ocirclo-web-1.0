@@ -1,0 +1,23 @@
+/* Design token dari Figma (Ocirclo). Ubah di sini, semua layar ikut berubah. */
+:root {
+  --bg: #fbfff0;
+  --surface: #ffffff;
+  --text: #1a1a1a;
+  --muted: #6b7280;
+
+  --maroon: #a21942;
+  --maroon-dark: #3c0918;
+  --header-gradient: linear-gradient(135deg, #a21942 0%, #3c0918 100%);
+
+  --green: #1a5c3a;
+  --green-accent: #16a34a;
+  --green-soft: #d1fae5;
+  --lime-soft: #d9f2bc;
+  --danger: #dc2626;
+  --sand: #f5f0eb;
+
+  --radius: 16px;
+  --radius-sm: 10px;
+  --shadow: 0 2px 10px rgba(60, 9, 24, 0.08);
+  --font: "Poppins", system-ui, sans-serif;
+}
